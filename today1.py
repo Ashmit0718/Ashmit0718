@@ -277,10 +277,10 @@ def readme_overwrite(age_data, commit_data, star_data, repo_data, follower_data,
                    .  --:.. :++=    :*+=:=+*#+=   . LinkedIn: ........... ashmit0718
                      ..=--:....:-+++=-:-=+*#+==                               
                         -=----:.   .::=+**#%    - GitHub Stats -----------------------------
-                        :-++++==-===+*#####       . Repos: .............. {repo_str} | Stars: ..... {star_str}
-                         .-+**###****######       . Commits: ............ {commit_str} | Followers: . {follower_str}
-                         ::=+******+**####*       . Lines of Code: ...... {loc_str} | Certs:Palo Alto,Cisco,TryHackMe
-                          :--==+++*****###:#                                  
+                        :-++++==-===+*#####       . Repos: .............. {repo_str} 
+                         .-+**###****######       . Commits: ............ {commit_str} 
+                         ::=+******+**####*       . Lines of Code: ...... {loc_str} 
+                          :--==+++*****###:#      . Certs:Palo Alto,Cisco,TryHackMe                            
                          - :----====+***** +*+=+++==+                         
                         :=  :-----====++*: :#*++++++++++====                  
                        .-+=   ---=====++=   +*+++=++++++++++++++++*           
