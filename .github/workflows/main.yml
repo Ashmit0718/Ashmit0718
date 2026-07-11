@@ -24,7 +24,7 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
           USER_NAME: ${{ github.repository_owner }}
-        run: python today.py
+        run: python today1.py
 
       - name: Commit and push changes
         run: |
